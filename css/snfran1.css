@@ -1,0 +1,60 @@
+/*Tabla*/
+
+.tabla, th, td{
+    text-align: center;
+    color: #fbaabfe2;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-collapse: separate;
+    padding: 10px;
+    margin: auto;
+    border: 2px solid #E2B3A8;
+    background-color: #444141;
+  
+  
+  }
+  
+  .espacio-tabla{
+      margin: 10px;
+      padding: 20px;
+      background-color: #D1E3E7;
+  }
+  
+  /*pie de pagina*/
+  #footer{
+      background-color:  #B9C6EA;
+      margin: 10px;
+      padding: 20px;
+  
+  }
+  
+  .nombre{
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 17px;
+      text-align: center;
+      color: #444141;
+      font-weight: 900;
+  }
+  
+  /*adicional*/
+  
+  .subtitulos{
+      font-family: cursive;
+      font-size: 20px;
+      color: #345DE9 ;
+      text-align: left;
+  }
+  
+  .tradicion1{
+      margin: 10px;
+      padding: 20PX;
+      background-color: #D3DCE8;
+  }
+  
+  .text{
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      font-size: 16px;
+      color: #444141;
+      text-align: left;
+  }
+  
+  
